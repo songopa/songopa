@@ -34,7 +34,8 @@ I thrive on learning new technologies, collaborating with teams, and solving com
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [LinkedIn](www.linkedin.com/in/julius-songopa-744934113)
+- Connect with me on [Instagram]((https://www.instagram.com/imjuson?igsh=MWhqYzRmODloaDRmeA==))
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
