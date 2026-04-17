@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julius Songopa!
 
-### Creative Fullstack Developer | Software Tester 
+### Creative Software Engineer
 
 ## 🚀 About Me
 I am passionate about coding, problem-solving, and creating user-friendly software, with a strong foundation in software testing, databases management and application development. 
@@ -8,7 +8,6 @@ I possess a unique blend of technical and creative skills to software developmen
 
 I thrive on learning new technologies, collaborating with teams, and solving complex problems. Let's connect—I'd love to explore opportunities in software development!🚀
 
-- 🔭 I'm currently pursuing my Software Development from Brigham Young University - Idaho.
 
 
 ![Songopa's Stats](https://github-readme-stats.vercel.app/api?username=songopa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
